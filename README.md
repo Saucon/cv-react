@@ -2,4 +2,4 @@
 
 Github : https://github.com/Saucon/cv-react
 
-Demo : reverent-meitner-322767.netlify.app
+Demo : https://reverent-meitner-322767.netlify.app/
