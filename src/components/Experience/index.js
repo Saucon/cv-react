@@ -4,10 +4,6 @@ import { ListGroup } from "react-bootstrap";
 
 import * as Icon from 'react-feather';
 
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
-
-import { faBriefcase } from '@fortawesome/free-brands-svg-icons'
-
 
 import styled from "styled-components";
 

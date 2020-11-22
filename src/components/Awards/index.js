@@ -5,7 +5,6 @@ import { ListGroup } from "react-bootstrap";
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faAward } from '@fortawesome/free-solid-svg-icons'
 
-import * as Icon from 'react-feather';
 
 
 import styled from "styled-components";
